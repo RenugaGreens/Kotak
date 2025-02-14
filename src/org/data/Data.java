@@ -7,4 +7,9 @@ public class Data {
 
 		System.out.println("Deposit-5%");
 	}
+	
+	private void savings() {
+
+		System.out.println("Savings-6%");
+	}
 }
